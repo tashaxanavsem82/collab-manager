@@ -1,0 +1,23 @@
+{
+  "name": "collab-manager",
+  "version": "1.0.0",
+  "description": "A comprehensive tool for collaboration among remote teams.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/collab-manager.git"
+  },
+  "keywords": ["collaboration", "project management", "team communication"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.0",
+    "mongoose": "^5.10.0",
+    "dotenv": "^10.0.0"
+  }
+}
