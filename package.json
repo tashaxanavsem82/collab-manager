@@ -12,7 +12,7 @@
     "url": "git+https://github.com/yourusername/collab-manager.git"
   },
   "keywords": ["collaboration", "project management", "team communication"],
-  "author": "John Doe",
+  "author": "Jane Doe",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
